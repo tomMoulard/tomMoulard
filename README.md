@@ -14,6 +14,7 @@
     <img src="https://media.giphy.com/avatars/LinkedIn/ajFOa7zWYFyL/200h.jpg" width="20px"> My <a href="https://www.linkedin.com/in/tommoulard">LinkedIn</a> account<br>
     <img src="https://tom.moulard.org/assets/img/cloneTrooper.ico" width="20px"> My <a href="https://tom.moulard.org">Personal</a> site<br>
     My <a href="https://blog.moulard.org">Blog</a><br>
+    <img src="http://hits.dwyl.com/tomMoulard/tomMoulard.svg" width="40px"><br>
     <br><br>
     :metal: :ocean: :octocat:
 </samp>

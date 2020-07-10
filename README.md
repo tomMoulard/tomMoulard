@@ -6,7 +6,7 @@
     <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="50px">
     Hi, it's Tom and welcome to my Github profile page<br>
     You'll find here all Open Source Projects I have<br>
-    My current focuses of interest includes Docker, Kubernetes, Golang, Python, Linux (my <a href="https://github.com/tommoulard/configloader">dot files</a>)
+    My current focuses of interest includes Docker, Kubernetes, Golang, Python, Linux (my <a href="https://github.com/tommoulard/configloader">dot files</a>)<br>
     I am currently looking for an end of studies internship from January to July 2021.
     <br><br>
     <img src="https://media.giphy.com/media/6MWahPArixa6I/giphy.gif" width="50px"><br>

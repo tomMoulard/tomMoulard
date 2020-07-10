@@ -1,14 +1,20 @@
-### Hi there 👋
+<!-- Emoji can be found at https://gist.github.com/rxaviers/7360908 -->
 
-<!--
-tomMoulard/tomMoulard is a ✨special ✨ repository that you can use to add a README.md to your GitHub profile.
-Make sure it’s public and initialize it with a README to get started.
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center" >
+<br><br>
+<samp>
+    <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="50px">
+    Hi, it's Tom and welcome to my Github profile page<br>
+    You'll find here all Open Source Projects I have<br>
+    My current focuses of interest includes Docker, Kubernetes, Golang, Python, Linux (my <a href="https://github.com/tommoulard/configloader">dot files</a>)
+    I am currently looking for an end of studies internship from January to July 2021.
+    <br><br>
+    <img src="https://media.giphy.com/media/6MWahPArixa6I/giphy.gif" width="50px"><br>
+    Let's talk ? @ <a href="mailto:tom@moulard.org?subject=Hello, from GitHub">tom@moulard.org</a><br>
+    <img src="https://media.giphy.com/avatars/LinkedIn/ajFOa7zWYFyL/200h.jpg" width="20px"> My <a href="https://www.linkedin.com/in/tommoulard">LinkedIn</a> account<br>
+    <img src="https://tom.moulard.org/assets/img/cloneTrooper.ico" width="20px"> My <a href="https://tom.moulard.org">Personal</a> site<br>
+    My <a href="https://blog.moulard.org">Blog</a><br>
+    <br><br>
+    :metal: :ocean: :octocat:
+</samp>
+</p>

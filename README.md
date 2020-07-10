@@ -10,7 +10,7 @@
     I am currently looking for an end of studies internship from January to July 2021.
     <br><br>
     <img src="https://media.giphy.com/media/6MWahPArixa6I/giphy.gif" width="50px"><br>
-    Let's talk ? @ <a href="mailto:tom@moulard.org?subject=Hello, from GitHub">tom@moulard.org</a><br>
+    Let's talk ? @ <a href="mailto:tom@moulard.org?subject=Hello%2C%20from%20GitHub">tom@moulard.org</a><br>
     <img src="https://media.giphy.com/avatars/LinkedIn/ajFOa7zWYFyL/200h.jpg" width="20px"> My <a href="https://www.linkedin.com/in/tommoulard">LinkedIn</a> account<br>
     <img src="https://tom.moulard.org/assets/img/cloneTrooper.ico" width="20px"> My <a href="https://tom.moulard.org">Personal</a> site<br>
     My <a href="https://blog.moulard.org">Blog</a><br>

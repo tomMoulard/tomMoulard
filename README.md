@@ -4,9 +4,9 @@
 <br><br>
 <samp>
     <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="50px" alt="GIF with a fox">
-    Hi, welcome to my profile page<br>
-    You'll find here all Open Source Projects I have<br>
-    My current focuses of interest includes Docker (my <a href="https://github.com/tomMoulard/make-my-server">main docker project</a>), Kubernetes, Golang, Python, Linux (my <a target="_blank" href="https://github.com/tommoulard/configloader">dot files</a>)<br>
+    Hi, welcome to my profile page.<br>
+    You'll find here all Open Source Projects I have.<br>
+    My current focuses of interest includes Docker (my <a href="https://github.com/tomMoulard/make-my-server">main docker project</a>), Kubernetes, Golang, Python, Linux (my <a target="_blank" href="https://github.com/tommoulard/configloader">dot files</a>).<br>
     I am currently working as an Junior Developer Intern <a href ="https://traefik.io/">@Traefik Labs</a> maintaining <a href="https://github.com/traefik/traefik">Traefik Proxy</a>.
     <br><br>
     <img src="https://media.giphy.com/media/6MWahPArixa6I/giphy.gif" width="50px" alt="GIF with a dog"><br>

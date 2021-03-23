@@ -29,5 +29,9 @@
     <!-- <img src="https://github-readme-stats.vercel.app/api?username=tommoulard&show_icons=true" width="300px"><br> -->
     <br><br>
     :metal: :ocean: :octocat:
+    <details>
+      <summary>My GitHub Stats</summary>
+      <img align="left" alt="Tom's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api?username=tommoulard&include_all_commits=true&hide_border=true" />
+    </details>
 </samp>
 </p>

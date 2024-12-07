@@ -1,1 +1,7 @@
+.env*
+
+# Terraform trash files
+*.lock.hcl
+*.tfstate
+*.tfstate.backup
 .terraform

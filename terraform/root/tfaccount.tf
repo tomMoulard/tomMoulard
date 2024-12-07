@@ -29,9 +29,11 @@ resource "aws_iam_access_key" "s3_user_key" {
 }
 
 output "s3_access_key" {
-  value = aws_iam_access_key.s3_user_key.id
+  value       = aws_iam_access_key.s3_user_key.id
+  description = "Access Key"
 }
 
 output "s3_secret_key" {
-  value = nonsensitive(aws_iam_access_key.s3_user_key.secret)
+  value       = nonsensitive(aws_iam_access_key.s3_user_key.secret)
+  description = "Secret Key"
 }

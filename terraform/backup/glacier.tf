@@ -1,7 +1,7 @@
 module "terrafrom_backend_bucket" {
   # https://github.com/terraform-aws-modules/terraform-aws-s3-bucket
   source  = "terraform-aws-modules/s3-bucket/aws"
-  version = "4.2.2"
+  version = "5.9.0"
 
   bucket = "backup-tm"
   acl    = "private"

@@ -7,6 +7,9 @@ Here is a list of the features:
  - root account setup
  - infrastructure setup
 
+do not forget to setup corresponding aws account
+(e.g., `aws configure --profile tommoulard-s3`).
+
 ## backups
 
 To create a backup, you need to fill up a tfvars file like:
@@ -19,6 +22,8 @@ folders = [
 ```
 
 and run `make apply-backup`.
+
+rclone sync -P /home/tm/workspace/make-my-server/bitwarden aws-s3-backup-remote://backup-tm/cyprine-001/home/tm/workspace/make-my-server/bitwarden
 
 ## root account
 

@@ -24,7 +24,7 @@ variable "default_tags" {
 provider "aws" {
   # aws configure --profile tommoulard-root
   alias   = "tommoulard-root"
-  region  = "us-east-2"
+  region  = "eu-west-1"
   profile = "tommoulard-root"
 
   default_tags {

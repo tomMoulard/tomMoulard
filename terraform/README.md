@@ -18,16 +18,16 @@ To create a backup, you need to fill up a tfvars file like:
 hostname = "pfs-macos-001"
 folders = [
   "/Users/username/Documents",
+  "/Users/username/Downloads",
+  "/Users/username/workspace",
 ]
 ```
 
-and run `make apply-backup`.
-
-rclone sync -P /home/tm/workspace/make-my-server/bitwarden aws-s3-backup-remote://backup-tm/cyprine-001/home/tm/workspace/make-my-server/bitwarden
+Use the sample `backup/pfs.tfvars` file as a starting point, then run `make apply-backup-pfs` to sync your folders with the `.env.backup` credentials.
 
 ## root account
 
-Run `make apply-backup`.
+Run `make apply-root`.
 
 It :
 

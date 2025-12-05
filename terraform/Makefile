@@ -21,5 +21,4 @@ apply-infra:
 
 apply-backup-pfs:
 	godotenv -f .env.backup terraform -chdir=./backup init -reconfigure -upgrade
-	godotenv -f .env.backup terraform -chdir=./backup plan -var-file=pfs.tfvars
-	godotenv -f .env.backup terraform -chdir=./backup apply -var-file=pfs.tfvars
+	godotenv -f .env.backup terraform -chdir=./backup apply -var-file=pfs.tfvars -auto-approve

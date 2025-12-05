@@ -7,6 +7,16 @@ terraform {
       # https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.80.0
       version = ">= 5.80.0"
     }
+
+    null = {
+      source  = "hashicorp/null"
+      version = ">= 3.2.2"
+    }
+
+    external = {
+      source  = "hashicorp/external"
+      version = ">= 2.3.1"
+    }
   }
 }
 
@@ -24,7 +34,7 @@ variable "default_tags" {
 provider "aws" {
   # aws configure --profile tommoulard-s3
   alias   = "tommoulard-s3"
-  region  = "us-east-2"
+  region  = "eu-west-1"
   profile = "tommoulard-s3"
 
   default_tags {
